@@ -1,3 +1,5 @@
+# Script to debug SQLite database
+
 import sqlite3
 
 # Connect to the database
